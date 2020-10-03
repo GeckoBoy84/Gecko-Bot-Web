@@ -1,6 +1,6 @@
 ## Welcome to Gecko-Bot
 
-### [Support Us] (https://patreon.com/GeckoBot)
+### [Support Us](https://patreon.com/GeckoBot)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
