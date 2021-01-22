@@ -12,4 +12,4 @@ We have many differet fun commands including image commands and meme commands!
 Why dont you upvote the bot [here](https://top.gg/bot/751800984187043880) and support us for free!
 We also have another vote site! [Click here](https://discordbotlist.com/bots/gecko-bot)
 
-###[Click here to invite the bot to your server!](https://discord.com/oauth2/authorize?client_id=751800984187043880&scope=bot&permissions=2146958847)
+### [Click here to invite the bot to your server!](https://discord.com/oauth2/authorize?client_id=751800984187043880&scope=bot&permissions=2146958847)
