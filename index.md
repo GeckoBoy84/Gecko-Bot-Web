@@ -13,3 +13,5 @@ Why dont you upvote the bot [here](https://top.gg/bot/751800984187043880) and su
 We also have another vote site! [Click here](https://discordbotlist.com/bots/gecko-bot)
 
 ### [Click here to invite the bot to your server!](https://discord.com/oauth2/authorize?client_id=751800984187043880&scope=bot&permissions=2146958847)
+
+<a href="https://www.patreon.com/bePatron?u=43184459" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
